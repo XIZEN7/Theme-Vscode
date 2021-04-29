@@ -1,0 +1,25 @@
+{
+    "name": "xizen-theme",
+    "displayName": "Xizen Theme",
+    "description": "My theme in vscode lol",
+    "icon": "images/logoXizen.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/XIZEN7/Theme-Vscode"
+    },
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "publisher": "StevenSanchez",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Xizen Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Xizen Theme-color-theme.json"
+        }]
+    }
+}
