@@ -1,7 +1,7 @@
 {
     "name": "xizen-theme",
     "displayName": "Xizen Theme",
-    "description": "My theme in vscode lol",
+    "description": "Theme Dark For VsCode",
     "icon": "images/logoXizen.png",
     "repository": {
         "type": "git",
